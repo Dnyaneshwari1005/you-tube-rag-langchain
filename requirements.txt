@@ -1,0 +1,7 @@
+youtube-transcript-api
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+faiss-cpu
+sentence-transformers
